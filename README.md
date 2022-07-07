@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 > Stay Hungry. Stay Foolish.
 
 I received the B.Eng. degree from University of Electronic Science and Technology of China in 2018, and then became a Master student at University of Chinese Academy of Sciences. My research interests include computer vision and deep learning, particularly focusing on Object Detection, Domain Adaptation and Visual Question Answering(VQA).
