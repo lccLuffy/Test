@@ -1,4 +1,9 @@
 title: Your awesome title
+author:
+  name: lufficc
+description: > # this means to ignore newlines until "show_excerpts:"
+  Stay Hungry. Stay Foolish.
+
 remote_theme: jekyll/minima
 plugins:
  - jekyll-feed
