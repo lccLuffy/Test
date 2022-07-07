@@ -1,6 +1,6 @@
 > Stay Hungry. Stay Foolish.
 
-I received the B.Eng. degree from University of Electronic Science and Technology of China in 2018, and then became a Master student at University of Chinese Academy of Sciences. My research interests include computer vision and deep learning, particularly focusing on Object Detection, Domain Adaptation and Visual Question Answering(VQA).
+I received the B.Eng. degree from University of Electronic Science and Technology of China in 2018, and then became a Ph.D at University of Chinese Academy of Sciences. My research interests include computer vision and deep learning, particularly focusing on Object Detection, Domain Adaptation and Video Understanding.
 
 ## Educations
 - 2014 - 2018  
@@ -11,6 +11,8 @@ I received the B.Eng. degree from University of Electronic Science and Technolog
 ## Experience
 - 2017 - 2018  
   Intern at SAP Chengdu, China
+- 2021 - Now  
+  Intern at ByteDance, Beijing
 
 ## Publications
 - [**Structured Context Transformer for Generic Event Boundary Detection**](https://arxiv.org/abs/2206.02985)  
