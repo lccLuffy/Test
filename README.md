@@ -4,9 +4,9 @@ I received the B.Eng. degree from University of Electronic Science and Technolog
 
 ## Educations
 - 2014 - 2018  
-  B.Eng. in University of Electronic Science and Technology of China
+  B.Eng. of University of Electronic Science and Technology of China
 - 2018 - Present  
-  M. student in University of Chinese Academy of Sciences
+  Ph.D of University of Chinese Academy of Sciences
 
 ## Experience
 - 2017 - 2018  
@@ -41,4 +41,4 @@ I received the B.Eng. degree from University of Electronic Science and Technolog
 - [**StateLayout**](https://github.com/lufficc/StateLayout): A custom layout that can easily switch different states.![GitHub stars](https://img.shields.io/github/stars/lufficc/StateLayout)
 - [**Deep Q Network**](https://github.com/lufficc/dqn): Toy implementation of Deep Q Network.![GitHub stars](https://img.shields.io/github/stars/lufficc/dqn)
 
-© 2020 lufficc | ![number visitors](https://www.easycounter.com/counter.php?lufficc) unique visitors since July 2019
+© 2022 lufficc ![number visitors](https://www.easycounter.com/counter.php?lufficc) unique visitors since July 2019
