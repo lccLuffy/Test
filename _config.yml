@@ -1,6 +1,6 @@
 title: Your awesome title
 description: > # this means to ignore newlines until "show_excerpts:"
-  ![number visitors](https://www.easycounter.com/counter.php?lufficc) unique visitors since July 2019.
+  <img src="https://www.easycounter.com/counter.php?lufficc" alt="number visitors"> unique visitors since July 2019.
 
 remote_theme: jekyll/minima
 plugins:
